@@ -37,7 +37,7 @@ main .main_left h1 {
 main .main_left h1 span {
   color: hsl(277, 64%, 61%);
 }
-main .main_left h3 {
+main .main_left h2 {
   color: hsla(0, 0%, 100%, 0.75);
   font-family: "Lexend Deca", sans-serif;
   font-size: 15px;
@@ -88,7 +88,7 @@ main .main_left ul li:last-child {
   main .main_left h1 {
     font-size: 25px;
   }
-  main .main_left h3 {
+  main .main_left h2 {
     font-size: 14px;
     margin: 15px 10px 15px 0;
   }
@@ -117,7 +117,7 @@ main .main_left ul li:last-child {
     padding: 30px;
     text-align: center;
   }
-  main .main_left h3 {
+  main .main_left h2 {
     margin: 15px 10px 25px 10px;
   }
   main .main_left ul li {
